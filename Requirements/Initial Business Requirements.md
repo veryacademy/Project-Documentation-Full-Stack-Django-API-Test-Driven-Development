@@ -36,7 +36,7 @@ The key areas to address include the storage of core product information, handli
 - Each variant should have its own **price** and other attributes.
 
 #### Additional Hints/Assumptions:
-- Variants share core characteristics with the main product but differ in aspects like **size**, **color**, or **material**.
+- Variants share core characteristics with the main product but differ in aspects like **size**, **colour**, or **material**.
 - Variants should still be recognised as versions of the **parent product**.
 
 ---
