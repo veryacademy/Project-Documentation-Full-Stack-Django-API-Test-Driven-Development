@@ -71,11 +71,12 @@ The key areas to address include the storage of core product information, handli
  
 ---
 
-### 6. Ordering of Sub-Products or Product Lines
+### 6. Ordering of Product Lines and Images
 - Some products may consist of multiple **related product lines** (or variants) that need to be displayed in a specific **order**.
 
 #### Additional Hints/Assumptions:
 - When customers view products with multiple variants or sub-products, a **default or primary variant** should be displayed first.
+- Product lines may have multiple images a **default or primary variant** should be displayed first or could be orderable.
 
 ---
 
