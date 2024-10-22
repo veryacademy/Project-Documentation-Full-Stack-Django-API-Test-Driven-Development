@@ -4,7 +4,7 @@
 # """
 
 # """
-# - [ ] Confirm the presence of all required tables within the database schema.
+# - [ ] Confirm the presence of required tables within the database schema.
 # """
 
 # """
