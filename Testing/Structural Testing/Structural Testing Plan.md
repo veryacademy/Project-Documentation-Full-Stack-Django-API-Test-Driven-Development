@@ -4,9 +4,9 @@
 
 - [ ] Confirm the presence of table within the database schema.
 
-- [ ] Verify expected field count
-
 - [ ] Validate the existence of expected columns in each table, ensuring correct data types.
+
+- [ ] Verify expected field count
 
 - [ ] Ensure that column relationships are correctly defined.
 
